@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on my nothing<br>- 🌱 I’m currently learning C# and .net<br>- 🤔 I’m looking for help with .net<br>- 💬 Ask me about Astronomy, CyberSecurity, Technology, Photography<br>- 📫 How to reach me: almasrur.info@gmail.com
+- 🔭 I’m currently working on nothing<br>- 🌱 I’m currently learning C# and .net<br>- 🤔 I’m looking for help with .net<br>- 💬 Ask me about Astronomy, CyberSecurity, Technology, Photography<br>- 📫 How to reach me: almasrur.info@gmail.com
 
 
 ## 🌐 Socials:
